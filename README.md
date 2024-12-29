@@ -1,28 +1,28 @@
-# 👋 Olá, eu sou Wilker!  
+# 👋 Hi, I'm Wilker!  
 
-🌐 **Sobre mim**  
-Sou um profissional com mais de **10 anos de experiência em tecnologia**, atualmente dedicando meu tempo livre ao aprendizado e desenvolvimento de habilidades em programação.  
+🌐 **About Me**  
+I am a tech professional with over **10 years of experience** in the industry, currently dedicating my free time to learning and improving my programming skills.  
 
-💻 **O que eu estou aprendendo?**  
+💻 **What I'm Learning?**  
 - **Python**: Django, Django Rest Framework (DRF)  
 - **Javascript/Typescript**  
-- **Go (Golang)**: Uma linguagem que tem despertado meu interesse, quem sabe projetos futuros?  
+- **Go (Golang)**: A language that has caught my interest—perhaps for future projects!  
 
-🚀 **Objetivos**  
-- Tornar-me um desenvolvedor Python/Django especialista.  
-- Explorar o potencial de Go em projetos de alta performance.  
-- Contribuir para projetos open source e desenvolver soluções que impactem positivamente pessoas e empresas.  
+🚀 **Goals**  
+- Become an expert Python/Django developer.  
+- Explore Go for high-performance applications.  
+- Contribute to open-source projects and develop solutions that make a positive impact.  
 
-📚 **Curiosidades**  
-- Amo aprender novas tecnologias e me desafiar em projetos inovadores.  
-- Minha jornada começou no suporte técnico e evoluiu para áreas mais complexas, como implantação de sistemas e análise de soluções.  
+📚 **Fun Facts**  
+- I love diving into new technologies and challenging myself with innovative projects.  
+- My career journey started in technical support and evolved into system deployment and solution analysis.  
 
-💼 **Vamos nos conectar?**  
-Sinta-se à vontade para explorar meus repositórios e colaborar em projetos!  
+💼 **Let's Connect!**  
+Feel free to explore my repositories and collaborate on exciting projects!  
 
-📧 **Contato**  
-Se quiser bater um papo ou colaborar, mande uma mensagem para mim!  
+📧 **Contact**  
+Want to chat or collaborate? Reach out to me anytime!  
 
 ---
 
-_"A tecnologia é a arte de transformar ideias em soluções."_  
+_"Technology is the art of turning ideas into solutions."_  
